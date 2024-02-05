@@ -7,6 +7,8 @@ Created on Thu Aug 24 09:41:38 2023
 simple python script to convert .csv files into otis format
 """
 
+#Adding a simple note to test github
+
 from tkinter import filedialog as fd # Handles actually calling the windows file dialog for selecting files and folders
 from tkinter import Button, Variable, Listbox, Tk, EXTENDED, BOTH # Different components I use for the GUI
 from os import chdir # Lets you make calls to windows just like a command prompt
